@@ -1,7 +1,7 @@
 # 🧬 Liver Fibrosis Structural Bioinformatics
 
 **Computational Biochemistry Projects | Sarthak Mishra**  
-Department of Biochemistry & Bioinformatics
+
 
 ---
 
